@@ -15,7 +15,7 @@
     "icon-font-generator": "^1.1.1",
     "rimraf": "^2.6.2",
     "semantic-release": "^12.2.2",
-    "travis-deploy-once": "^4.3.2"
+    "travis-deploy-once": "^5.0.11"
   },
   "repository": {
     "type": "git",
